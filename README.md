@@ -1,9 +1,7 @@
 # **✌️Hey, I'm a Front-End Developer✌️**
 ### 💻 About me:
 ____
-My name is Roman, and I am focused on creating high-quality, responsive websites and applications. <br />
-I am dedicated to continually improving my skills in JavaScript, along with its frameworks and libraries, to enhance the quality of my work. <br />
-
+My name is Roman, and I am focused on creating websites and applications. <br />
 ### 🧰 Languages and Tools:
 ____
 
